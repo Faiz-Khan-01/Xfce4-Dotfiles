@@ -1,4 +1,3 @@
-# UNDER CONSTRUCTION 🏗️ 🚧
 # Xfce4-Dotfiles
 Contains Two Modes :
 - **Standard Mode** : Simple and easy to use layout with traditional desktop experience.
